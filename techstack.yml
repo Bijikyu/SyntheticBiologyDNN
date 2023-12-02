@@ -1,0 +1,28 @@
+repo_name: Bijikyu/SyntheticBiologyDNN
+report_id: ed146d4a2f62d23b1dcdd4ebd7c65be6
+repo_type: Public
+timestamp: '2023-12-02T21:35:40+00:00'
+requested_by: SihaoHuang
+provider: github
+branch: master
+detected_tools_count: 2
+tools:
+- name: MATLAB
+  description: A high-level language and interactive environment for numerical computation,
+    visualization, and programming
+  website_url: http://www.mathworks.com/products/matlab/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1214/h5g3etjnacmazg8oq17z.jpeg
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
